@@ -44,7 +44,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
    
     const newParagraph = document.createElement('p');
-    newParagraph.textContent = 'This is a new paragraph added using createElement.';
+    newParagraph.textContent = 'This is a random paragraph I legit just dont know what to put here but I met the requirement? right? lol';
     
  
     document.body.appendChild(newParagraph);
